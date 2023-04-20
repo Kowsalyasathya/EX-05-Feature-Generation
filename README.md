@@ -149,7 +149,6 @@ df.head(10)
 ## OUTPUT:
 
 Data.csv:
-
 ![fea1](https://user-images.githubusercontent.com/118671457/233466312-63f24eea-8811-47c4-8406-0efe16793d34.png)
 ![fea2](https://user-images.githubusercontent.com/118671457/233466346-a2397458-0dc7-4315-ad0b-28e5a72ce235.png)
 ![fea3](https://user-images.githubusercontent.com/118671457/233466375-f3583f8c-6432-49e9-82d6-2161ffee1d17.png)
@@ -157,9 +156,7 @@ Data.csv:
 ![fea5](https://user-images.githubusercontent.com/118671457/233466498-46c40dd1-6e20-45e0-9708-5e94a0effba7.png)
 ![fea6](https://user-images.githubusercontent.com/118671457/233466545-7a335ece-ea70-4e8f-8a42-d5b2d8a03904.png)
 ![fea7](https://user-images.githubusercontent.com/118671457/233466598-eb7ac85d-e37c-468b-aabe-7972f8bd6292.png)
-
 ## Encoding.csv :
-
 ![fea8](https://user-images.githubusercontent.com/118671457/233466636-fa21dc26-2e4c-49fd-8e09-c4504b947711.png)
 ![fea9](https://user-images.githubusercontent.com/118671457/233466694-17819fa7-7f6b-4ce8-b425-c19f0dae1c6a.png)
 ![fea10](https://user-images.githubusercontent.com/118671457/233466782-edbd306a-fa73-4ba3-9d73-5ec9ed60e4ab.png)
@@ -167,9 +164,7 @@ Data.csv:
 ![fea12](https://user-images.githubusercontent.com/118671457/233466865-8426d696-b072-43ad-81c6-5c187638ca9e.png)
 ![fea13](https://user-images.githubusercontent.com/118671457/233466935-10211f57-0c1f-4569-b158-10f89c2a4b35.png)
 ![fea14](https://user-images.githubusercontent.com/118671457/233466989-770c8767-4b0b-4634-84e2-04c6262ad65a.png)
-
 ## Titanic.csv :
-
 ![fea15](https://user-images.githubusercontent.com/118671457/233467035-d5d7df83-1587-441c-b24a-428690b37045.png)
 ![fea16](https://user-images.githubusercontent.com/118671457/233467077-7999d3ac-51bc-4043-b35c-302021b0648b.png)
 ![fea17](https://user-images.githubusercontent.com/118671457/233467106-ea81a92e-74ba-4de6-91d1-cf821ccbcb89.png)
